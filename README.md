@@ -1,6 +1,6 @@
 # riseofdata.github.io
 
-Rise of Data in Materials Research
+## Rise of Data in Materials Research
 
 This website is a forum for members of the materials research community to
 discuss issues related to the increasing use of large data sets as part of
