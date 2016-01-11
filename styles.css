@@ -77,3 +77,8 @@ h2.topBar {
    padding-left: 5px;
    border: 1px solid black;
 }
+
+table {
+   width: 100%;
+   border: 1px solid black;
+}

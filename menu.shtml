@@ -25,6 +25,9 @@
       <a href="forum.shtml" target="content-id">Discussion Forum</a>
 
       <p>
+      <a href="success.shtml" target="content-id">Success Stories</a>
+
+      <p>
       <a href="contact.shtml" target="content-id">Contact</a>
    </div>
 </body>
