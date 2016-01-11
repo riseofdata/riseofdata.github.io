@@ -1,0 +1,13 @@
+<html>
+<head>
+  <title>Rise of Data in Materials Research</title>
+  <script language="JavaScript" src="emailaddr.js"></script>
+  <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+</head>
+<body>
+  <iframe name="menu-id"    class="menu"        src="menu.shtml" scrolling="no">   </iframe>
+  <iframe name="bar-id"     class="topBar"      src="topBar.shtml" scrolling="no"> </iframe>
+  <iframe name="content-id" class="mainContent" src="home.shtml"> </iframe>
+</body>
+</html>
