@@ -10,7 +10,7 @@
 
 <body>
    <div class="menu">
-      <a href="home.shtml"       target="content-id">Overview</a>
+      <a href="overview.shtml"   target="content-id">Overview</a>
 
       <p>
       <a href="background.shtml" target="content-id">Background</a>
