@@ -676,8 +676,12 @@ BREAK
 
 <tr>
 <td class="timerange">10:30 &#8212; 11:30</td>
-<td colspan=2>
-General Discussion
+<td>
+Summary and General Discussion<br>
+Moderated by Ellad Tadmor
+</td>
+<td class="slides">
+<a href="talks/tue-general-discussion.shtml" target="_blank">slides+audio</a>
 </td>
 </tr>
 
