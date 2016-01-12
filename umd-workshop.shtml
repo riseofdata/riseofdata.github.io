@@ -101,7 +101,7 @@ Group 1 Members (Co-Leaders appear in bold)
       <td>Alejandro Strachan (Purdue)</td>
    </tr>
    <tr>
-      <td><b>Francois Gygi (Co-Leader) (UC Davis)</b></td>
+      <td><b>Fran&ccedil;ois Gygi (Co-Leader) (UC Davis)</b></td>
       <td>Ellad Tadmor (U. Minnesota)</td>
    </tr>
 </table>
@@ -254,7 +254,7 @@ Group 4 Members (Co-Leaders appear in bold)
       <td>Mark Robbins (Johns Hopkins)</td>
    </tr>
    <tr>
-      <td>Tamas Budavari (Johns Hopkins)</td>
+      <td>Tam&aacute;s Budav&aacute;ri (Johns Hopkins)</td>
       <td>Sadasivan Shankar (Harvard)</td>
    </tr>
    <tr>
@@ -275,7 +275,7 @@ Group 4 Members (Co-Leaders appear in bold)
    </tr>
    <tr>
       <td>Timothy Mueller (Johns Hopkins)</td>
-      <td>Jorge Vinals (U. Minnesota)</td>
+      <td>Jorge Vi&ntilde;als (U. Minnesota)</td>
    </tr>
    <tr>
       <td>Steven Plimpton (Sandia)</td>
@@ -380,7 +380,7 @@ Group 6 Members (Co-Leaders appear in bold)
       <td>James Warren (NIST)</td>
    </tr>
    <tr>
-      <td><b>Ravi-Chandar (Co-Leader) (UT Austin)</b></td>
+      <td><b>K. Ravi-Chandar (Co-Leader) (UT Austin)</b></td>
       <td></td>
    </tr>
 </table>
@@ -396,31 +396,304 @@ links to movies showing the presentations slides with the associated
 audio.
 
 <p>
-Day 1 (Monday June 29, 2015)
+<b>Day 1 (Monday June 29, 2015)</b>
+
+<table rules="rows">
+<tr>
+<td class="timerange">8:00 &#8212; 8:15</td>
+<td>
+<a href="http://www.aem.umn.edu/~tadmor/" target="_blank">Ellad Tadmor (U. Minnesota)</a><br>
+Welcome and Workshop Objectives
+</td>
+<td class="slides">
+<a href="talks/mon-0-tadmor.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td class="timerange">8:15 &#8212; 8:35</td>
+<td>
+<a href="http://www.nsf.gov/mobile/staff/staff_bio.jsp?lan=dhess&org=DMR&from_org=" target="_blank">Daryl Hess (NSF)</a><br>
+Can we develop a science-infrastructure to do better science and reach new frontiers?
+</td>
+<td class="slides">
+<a href="talks/mon-0-hess.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td class="timerange">8:35 &#8212; 8:50</td>
+<td>
+<a href="https://engineering.jhu.edu/ams/faculty/tamas-budavari/" target="_blank">Tam&aacute;s Budav&aacute;ri (Johns Hopkins)</a><br>
+Lessons Learnt in Astronomy
+</td>
+<td class="slides">
+<a href="talks/mon-0-budavari.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td rowspan="7" class="timerange">8:50 &#8212; 10:30</td>
+<td colspan="2"><b>Co-Leader Talks (Groups 1-3)</b></td>
+</tr>
+
+<tr>
+<td>
+Group 1:
+<a href="http://faculty.engineering.ucdavis.edu/gygi/" target="_blank">Fran&ccedil;ois Gygi (UC Davis)</a><br>
+Cyberinfrastructure for DFT Electronic Structure Data
+</td>
+<td class="slides">
+<a href="talks/mon-1-gygi.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td>
+Group 1:
+<a href="http://phillpot.mse.ufl.edu/" target="_blank">Simon Phillpot (U. Florida)</a><br>
+Cyberinfrastructure for Atomistic Materials Science
+</td>
+<td class="slides">
+<a href="talks/mon-1-phillpot.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td>
+Group 2:
+<a href="http://www.cs.sandia.gov/~athomps/" target="_blank">Aidan Thompson (Sandia)</a><br>
+Enabling Data Infrastructure Creation: Tools and Resources
+</td>
+<td class="slides">
+<a href="talks/mon-2-thompson.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td>
+Group 2:
+<a href="http://www.mae.cornell.edu/people/profile.cfm?netid=prd5" target="_blank">Paul Dawson (Cornell)</a><br>
+Enabling Data Infrastructure Creation: Incentives
+</td>
+<td class="slides">
+<a href="talks/mon-2-dawson.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td>
+Group 3:
+<a href="https://www.kent.edu/cmi/profile/laura-bartolo" target="_blank">Laura Bartolo (Kent State)</a><br>
+Finding Data in Your Lab and Beyond
+</td>
+<td class="slides">
+<a href="talks/mon-3-bartolo.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td>
+Group 3:
+<a href="https://www.uantwerpen.be/en/staff/nick-schryvers/" target="_blank">Nick Schryvers (U. Antwerp)</a><br>
+Selecting, Storing and Annotating Real Lab Data and Metadata
+</td>
+<td class="slides">
+<a href="talks/mon-3-schryvers.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td class="timerange">10:30 &#8212; 10:50</td>
+<td colspan=2>
+BREAK
+</td>
+</tr>
+
+<tr>
+<td rowspan="7" class="timerange">10:50 &#8212; 12:30</td>
+<td colspan="2"><b>Co-Leader Talks (Groups 4-6)</b></td>
+</tr>
+
+<tr>
+<td>
+Group 4:
+<a href="http://people.epfl.ch/william.curtin?lang=en" target="_blank">William Curtin (EPFL)</a><br>
+Knowledge from Data: Opening Remarks
+</td>
+<td class="slides">
+<a href="talks/mon-4-curtin.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td>
+Group 4:
+<a href="http://www.mse.umd.edu/faculty/takeuchi" target="_blank">Ichiro Takeuchi (U. Maryland)</a><br>
+From Data to Knowledge in High-Throughput Experimentation
+</td>
+<td class="slides">
+<a href="talks/mon-4-takeuchi.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td>
+Group 5:
+<a href="http://www.mse.engin.umich.edu/people/smy" target="_blank">Steven Yalisove (U. Michigan)</a><br>
+Science is not Philately
+</td>
+<td class="slides">
+<a href="talks/mon-5-yalisove.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td>
+Group 5:
+<a href="https://me-web2.engin.umich.edu/pub/directory/bio?uniqname=djsiege" target="_blank">Donald Siegel (U. Michigan)</a><br>
+Rise of Data in Materials Education: Is “Data Awareness” Good Enough?
+</td>
+<td class="slides">
+<a href="talks/mon-5-siegel.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td>
+Group 6:
+<a href="https://www.ae.utexas.edu/faculty/faculty-directory/ravi-chandar" target="_blank">K. Ravi-Chandar (UT Austin)</a><br>
+Some Preliminary Thoughts on 'Support from the Top’
+</td>
+<td class="slides">
+<a href="talks/mon-6-ravi-chandar.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td>
+Group 6:
+<a href="http://rollett.org/anthony/" target="_blank">Anthony Rollett (Carnegie-Mellon)</a><br>
+Data Mining in Metallurgy via Correlation Analysis
+</td>
+<td class="slides">
+<a href="talks/mon-6-rollett.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td class="timerange">12:30 &#8212; 1:30</td>
+<td colspan=2>
+LUNCH
+</td>
+</tr>
+
+<tr>
+<td class="timerange">1:30 &#8212; 5:00</td>
+<td colspan=2>
+Group Discussions
+</td>
+</tr>
+
+<tr>
+<td class="timerange">6:30 &#8212; 8:30</td>
+<td colspan=2>
+DINNER
+</td>
+</tr>
+</table>
+
+<p>
+<b>Day 2 (Tuesday June 30, 2015)</b>
+
 <table>
-
 <tr>
-<td>8:00 &#8212; 8:15</td>
-<td>
-<a href="http://www.aem.umn.edu/~tadmor/" target="_blank">Ellad Tadmor (U. Minnesota)</a>,
+<td class="timerange">8:00 &#8212; 8:15</td>
+<td colspan=2>
 Welcome
-</td>
-<td>
-<a href="talks/0_tadmor_nsf_data_workshop_welcome.shtml" target="_blank">slides+audio</a>
 </td>
 </tr>
 
 <tr>
-<td>8:15 &#8212; 8:35</td>
-<td>
-<a href="http://www.nsf.gov/mobile/staff/staff_bio.jsp?lan=dhess&org=DMR&from_org=" target="_blank">Daryl Hess (NSF)</a>,
-Welcome
+<td rowspan="7" class="timerange">8:15 &#8212; 10:15</td>
+<td colspan="2"><b>Co-Leaders Reports (Groups 1-6)</b></td>
+</tr>
+
+<tr>
+<td>Group 1: Fran&ccedil;ois Gygi/Simon Phillpot</td>
 </td>
-<td>
-<a href="talks/0_hess-DMR-Data-Workshop-slim2.shtml" target="_blank">slides+audio</a>
+<td class="slides">
+<a href="talks/tue-1-report.shtml" target="_blank">slides+audio</a>
 </td>
 </tr>
 
+<tr>
+<td>Group 2: Aidan Thompson/Paul Dawson</td>
+</td>
+<td class="slides">
+<a href="talks/tue-2-report.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td>Group 3: Laura Bartolo/Nick Schryvers</td>
+</td>
+<td class="slides">
+<a href="talks/tue-3-report.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td>Group 4: William Curtin/Ichiro Takeuchi</td>
+</td>
+<td class="slides">
+<a href="talks/tue-4-report.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td>Group 5: Steven Yalisove/Donald Siegel</td>
+</td>
+<td class="slides">
+<a href="talks/tue-5-report.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td>Group 6: K. Ravi-Chander/Anthony Rollett</td>
+</td>
+<td class="slides">
+<a href="talks/tue-6-report.shtml" target="_blank">slides+audio</a>
+</td>
+</tr>
+
+<tr>
+<td class="timerange">10:15 &#8212; 10:30</td>
+<td colspan=2>
+BREAK
+</td>
+</tr>
+
+<tr>
+<td class="timerange">10:30 &#8212; 11:30</td>
+<td colspan=2>
+General Discussion
+</td>
+</tr>
+
+<tr>
+<td class="timerange">11:30 &#8212; 12:00</td>
+<td colspan=2>
+Wrap-up
+</td>
+</tr>
+
+<tr>
+<td class="timerange">11:30 &#8212; 12:00</td>
+<td colspan=2>
+LUNCH to go
+</td>
+</tr>
 
 </table>
 

@@ -82,3 +82,13 @@ table {
    width: 100%;
    border: 1px solid black;
 }
+
+td.timerange {
+   width: 100px;
+   vertical-align: top;
+}
+
+td.slides {
+   width: 100px;
+   vertical-align: top;
+}
