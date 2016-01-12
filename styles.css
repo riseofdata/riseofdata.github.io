@@ -41,7 +41,7 @@ div.menu {
 
 /* top bar definitions */
 .topBar {
-   position: absolute;
+   position: fixed;
    top: 0;
    left: 0px;
    height: 50px;
@@ -67,7 +67,7 @@ h2.topBar {
 
 /* main window definitions */
 .mainContent {
-   position: absolute;
+   position: fixed;
    top: 51px;
    left: 196px;
    width: 600px;
