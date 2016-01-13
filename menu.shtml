@@ -29,6 +29,16 @@
 
       <p>
       <a href="contact.shtml" target="content-id">Contact</a>
+
+      <div style="position: fixed; bottom: 5px">
+         <table>
+         <tr>
+            <td><img src="pictures/nsflogo.png" height="50px"></img></td>
+            <td style="color:white; font-size:12px; padding-left:5px">Funding provided by the National Science Foundation</td>
+         </tr>
+         </table>
+      </div>
+
    </div>
 </body>
 
