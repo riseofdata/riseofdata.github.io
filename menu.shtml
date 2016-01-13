@@ -34,7 +34,7 @@
          <table>
          <tr>
             <td><img src="pictures/nsflogo.png" height="50px"></img></td>
-            <td style="color:white; font-size:12px; padding-left:5px">Funding provided by the National Science Foundation</td>
+            <td style="color:white; font-size:12px; padding-left:5px">Funding provided by the <a href="http://www.nsf.gov" target="_blank">National Science Foundation</a></td>
          </tr>
          </table>
       </div>
