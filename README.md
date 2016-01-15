@@ -20,3 +20,13 @@ scientific research in materials science.  This includes issues related to
 
 This effort is funded through an NSF grant (DMR-1542923) led by
 Prof. Ellad B. Tadmor and Prof. Ryan S. Elliott (University of Minnesota).
+
+---
+
+## Testing changes locally
+
+    % gem install bundler
+    % bundle install
+    % ./run
+
+Open browser to http://localhost:4000

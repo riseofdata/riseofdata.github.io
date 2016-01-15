@@ -1,0 +1,40 @@
+.content {
+  padding-top: 20px;
+}
+
+.content a {
+  text-decoration: underline;
+}
+
+.menu a {
+ color: white;
+ text-decoration: underline;
+}
+
+.menu h3 {
+ color: red;
+}
+
+html, body { height: 100%; overflow: hidden; }
+
+div.nsf-logo {
+  width: 180px;
+  max-height: 100%;
+  display: none;
+}
+
+@media (max-height: 530px) {
+  div.nsf-logo-smallscreen {
+    display: block;
+    padding-top: 20px;
+  }
+}
+
+@media (min-height: 530px) {
+  div.nsf-logo-largescreen {
+    display: block;
+    position: fixed;
+    bottom: 15px;
+    padding-left: 0;
+  }
+}

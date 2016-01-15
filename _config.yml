@@ -1,0 +1,9 @@
+encoding: UTF-8
+timezone: America/Chicago
+kramdown:
+  smart_quotes: apos,apos,quot,quot
+exclude:
+  - run
+  - README.md
+  - Gemfile
+  - Gemfile.lock
