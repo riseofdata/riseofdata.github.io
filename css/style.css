@@ -20,6 +20,24 @@
  font-weight: 200;
 }
 
+.links h4 {
+ font-weight: 200;
+ font-variant: small-caps;
+}
+
+.links li {
+ list-style-type: circle;
+}
+
+.links ul li:after {
+    content: "";
+    display: block;
+    height: 1px;
+    width: 40%;
+    margin: 10px;
+    background: DimGray;
+}
+
 html, body { height: 100%; overflow: hidden; }
 
 div.nsf-logo {
