@@ -15,6 +15,11 @@
  color: red;
 }
 
+.menu h4 {
+ color: red;
+ font-weight: 200;
+}
+
 html, body { height: 100%; overflow: hidden; }
 
 div.nsf-logo {
