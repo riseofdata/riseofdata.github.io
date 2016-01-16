@@ -46,14 +46,14 @@ div.nsf-logo {
   display: none;
 }
 
-@media (max-height: 530px) {
+@media (max-height: 650px) {
   div.nsf-logo-smallscreen {
     display: block;
     padding-top: 20px;
   }
 }
 
-@media (min-height: 530px) {
+@media (min-height: 650px) {
   div.nsf-logo-largescreen {
     display: block;
     position: fixed;
