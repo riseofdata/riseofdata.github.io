@@ -3,10 +3,6 @@ layout: default
 ---
 
 <h3>Welcome!</h3>
-<figure style="float:right; margin: 10px 10px 10px 0;">
-<img src="/all-the-information.jpg" height="200px" ></img>
-<figcaption style="color:gray; text-align:right;">v1shal.com</figcaption>
-</figure>
 This website is a forum for members of the materials research community to
 discuss issues related to the increasing use of large data sets as part of
 scientific research in materials science.  The following themes are
@@ -52,4 +48,8 @@ This effort is funded through an <a href="http://www.nsf.gov/awardsearch/showAwa
 led by <a href="http://www.aem.umn.edu/~tadmor/" target="_blank">Prof. Ellad B. Tadmor</a> and <a href="https://www.aem.umn.edu/people/faculty/bio/elliott.shtml" target="_blank">Prof. Ryan S. Elliott</a> at the <a href="https://twin-cities.umn.edu/" target="_blank">University of Minnesota</a>.
 </p>
 
-
+<p>
+<img src="
+/all-the-information.jpg" height="150px"></img><br>
+<span style="color:gray">v1shal.com</span>
+</p>
