@@ -40,6 +40,8 @@
 
 html, body { height: 100%; overflow: hidden; }
 
+@media  (max-device-width: 480px) and (orientation: landscape) {}
+
 div.nsf-logo {
   width: 180px;
   max-height: 100%;
