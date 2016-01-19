@@ -43,9 +43,10 @@ html, body { height: 100%; overflow: hidden; }
 div.nsf-logo {
   width: 180px;
   max-height: 100%;
-  display: none;
+ /* display: none; */
 }
 
+/*
 @media (max-height: 650px) {
   div.nsf-logo-smallscreen {
     display: block;
@@ -61,3 +62,4 @@ div.nsf-logo {
     padding-left: 0;
   }
 }
+*/
