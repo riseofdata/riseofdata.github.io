@@ -38,30 +38,8 @@
     background: DimGray;
 }
 
-html, body { height: 100%; overflow: hidden; }
 
-@media  (max-device-width: 480px) and (orientation: landscape) {}
-
-div.nsf-logo {
-  width: 180px;
-  max-height: 100%;
- /* display: none; */
+html, body {
+  background: url("/background.gif") white repeat-y fixed;
 }
 
-/*
-@media (max-height: 650px) {
-  div.nsf-logo-smallscreen {
-    display: block;
-    padding-top: 20px;
-  }
-}
-
-@media (min-height: 650px) {
-  div.nsf-logo-largescreen {
-    display: block;
-    position: fixed;
-    bottom: 15px;
-    padding-left: 0;
-  }
-}
-*/

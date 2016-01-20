@@ -5,10 +5,8 @@
   <meta name="viewport" content="width=500, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>Rise of Data in Materials Research</title>
-  <link rel=stylesheet href="
-/css/bootstrap.min.css">
-  <link rel=stylesheet href="
-/css/style.css">
+  <link rel=stylesheet href="/css/bootstrap.min.css">
+  <link rel=stylesheet href="/css/style.css">
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -28,86 +26,65 @@
 </head>
 <body>
 
-  <div style="background: black; height: 100%; min-height: 800px; width: 197px; z-index: -1; position: absolute; left: 0; top: 0;">
+
+  <nav class="navbar navbar-default" style="background: red; border: 0; border-radius: 0;">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="http://riseofdata.org" style="color: white; white-space: nowrap;"><img src="pictures/riseofdata_logo_medium.jpg" height="20px" style="display:inline; padding-right:5px;"></img> Rise of Data in Materials Research</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="menu" style="width: 197px; background: black; color: white; border: 0; padding-left: 15px; padding-top: 25px; position: absolute; top: 50px;">
+
+    <p><a href="/" >Home</a></p>
+
+    <h4>Position Paper</h4>
+    <ul>
+      <li><a href="/background">Background</a></li>
+      <li><a href="/themes">Themes</a></li>
+      <li><a href="/recommendations">Recommendations</a></li>
+    </ul>
+
+   <h4>Meetings</h4>
+   <ul>
+     <li><a href="/umd-workshop">UMD Workshop<br>(June 29-30, 2015)</a></li>
+     <br>
+     <li><a href="/tms-townhall">TMS Town Hall<br>(February 17, 2016)<br><span style="color:yellow">open for registration</span></a></li>
+   </ul>
+
+   <h4>Resources</h4>
+   <ul>
+    <li><a href="/success">Success Stories</a></li>
+    <li><a href="/links">Useful Links</a></li>
+    <li><a href="/funding-ops">Funding Opps</a></li>
+  </ul>
+
+  <h4>Participate</h4>
+  <ul>
+    <li><a href="/forum">Discussion Forum</a></li>
+    <li><a href="/contact">Contact</a></li>
+  </ul>
+
+  <div class="nsf-logo" style="padding-top: 20px; padding-bottom: 20px; margin-left: -8px;">
+    <table>
+      <tr>
+        <td>
+          <img src="/pictures/nsflogo.png" height="50px"></img>
+        </td>
+        <td style="border-collapse: separate; color:white; padding-left:5px">
+          Funding provided by the <a style="color: white; text-decoration: underline" href="http://www.nsf.gov" target="_blank">National Science Foundation</a>
+        </td>
+      </tr>
+    </table>
   </div>
 
-  <table class="table" style="width: 100%;">
-    <tr style="background: red; color: white;">
-      <td colspan="2" style="border: 0; padding: 0;">
-        <a class="navbar-brand" href="http://riseofdata.org" style="color: white; white-space: nowrap;"><img src="pictures/riseofdata_logo_medium.jpg" height="20px" style="display:inline; padding-right:5px;"></img>
-Rise of Data in Materials Research</a>
-      </td>
-    </tr>
-    <tr>
-      <td class="menu" style="width: 197px; min-height: 1000px; color: white; border: 0; padding-left: 15px; padding-top: 25px;">
+</div>
 
-        <p><a href="
-/" >Home</a></p>
 
-        <h4>Position Paper</h4>
-        <ul>
-         <li><a href="
-/background">Background</a></li>
-         <li><a href="
-/themes">Themes</a></li>
-         <li><a href="
-/recommendations">Recommendations</a></li>
-        </ul>
-
-        <h4>Meetings</h4>
-        <ul>
-         <li><a href="
-/umd-workshop">UMD Workshop<br>(June 29-30, 2015)</a></li>
-         <br>
-         <li><a href="
-/tms-townhall">TMS Town Hall<br>(February 17, 2016)<br><span style="color:yellow">open for registration</span></a></li>
-       </ul>
-
-       <h4>Resources</h4>
-       <ul>
-        <li><a href="
-/success">Success Stories</a></li>
-        <li><a href="
-/links">Useful Links</a></li>
-        <li><a href="
-/funding-ops">Funding Opps</a></li>
-       </ul>
-
-       <h4>Participate</h4>
-       <ul>
-        <li><a href="
-/forum">Discussion Forum</a></li>
-        <li><a href="
-/contact">Contact</a></li>
-       </ul>
-
-    </td>
-    <td rowspan=2 style="padding: 0; border: 0;">
-      <div style="position: absolute; height: 100%; overflow-y: auto; background: white; padding: 8px; padding-top: 0;">
-        <div style="position: relative; background: white; padding-bottom: 200px;">
-
-         {{content}}
-
-       </div>
-     </div>
-   </td>
-   <!--
-   <tr>
-     <td style="border-top: 0">
-       <div class="nsf-logo" style="bottom: 20px; position: absolute;">
-         <table>
-           <tr>
-            <td><img src="
-              /pictures/nsflogo.png" height="50px"></img></td>
-              <td style="border-collapse: separate; color:white; padding-left:5px">Funding provided by the <a style="color: white; text-decoration: underline" href="http://www.nsf.gov" target="_blank">National Science Foundation</a></td>
-            </tr>
-          </table>
-        </div>
-      </td>
-    </tr>
-  </tr>
-  -->
-</table>
+<div class="content" style="position: absolute; left: 197px; top: 50px; width: calc(100vw - 197px); padding: 8px; padding-top: 0;">
+  {{content}}
+</div>
 
 </body>
 </html>
