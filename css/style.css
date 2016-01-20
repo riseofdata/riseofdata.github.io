@@ -40,6 +40,6 @@
 
 
 html, body {
-  background: url("/background.gif") white repeat-y fixed;
+  background: url("/background.gif") white repeat-y;
 }
 
